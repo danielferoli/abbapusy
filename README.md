@@ -3,9 +3,9 @@ Boas vindas ao meu perfil 🍕🍕🍕
 
 Meu nome é Daniel Oliveira
 
--Estou estudando na Alura
+-Estou estudando no Alura no 2D na escola Victor Maida
 
--Estou me desenvolvendo na linguagem JavaScript
+-Estou me aprendendo linguagem de Javascript
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
