@@ -1,11 +1,11 @@
 # danioli
-Boas vindas ao meu perfil 🍕🍕🍕
+Boas vindas ao meu perfil ༼ つ ◕_◕ ༽つ
 
 Meu nome é Daniel Oliveira
 
--Estou estudando no Alura no 2D na escola Victor Maida
+-Estou estudando com o Alura na escola Victor Maida
 
--Estou me aprendendo linguagem de Javascript
+-Estou aprendendo a programar com o p5.js
 
 -Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
