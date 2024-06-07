@@ -12,4 +12,4 @@ Meu nome é Daniel Oliveira
 Voce pode me localizar com
       00001081197936sp@al.educacao.sp.gov.br
 
-![](link)
+![](https://uploads.spiritfanfiction.com/historias/capas/202101/coisas-aleatorios-da-minha-vida-21557885-260120210350.gif)
